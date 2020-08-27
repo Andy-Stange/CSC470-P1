@@ -1,0 +1,10 @@
+C:\Users\Michael\Source\Repos\Andy-Stange\CSC470-P1\P1 Code\P1 Code\bin\Debug\P1 Code.exe.config
+C:\Users\Michael\Source\Repos\Andy-Stange\CSC470-P1\P1 Code\P1 Code\bin\Debug\P1 Code.exe
+C:\Users\Michael\Source\Repos\Andy-Stange\CSC470-P1\P1 Code\P1 Code\bin\Debug\P1 Code.pdb
+C:\Users\Michael\Source\Repos\Andy-Stange\CSC470-P1\P1 Code\P1 Code\obj\Debug\P1 Code.csprojAssemblyReference.cache
+C:\Users\Michael\Source\Repos\Andy-Stange\CSC470-P1\P1 Code\P1 Code\obj\Debug\P1_Code.Form1.resources
+C:\Users\Michael\Source\Repos\Andy-Stange\CSC470-P1\P1 Code\P1 Code\obj\Debug\P1_Code.Properties.Resources.resources
+C:\Users\Michael\Source\Repos\Andy-Stange\CSC470-P1\P1 Code\P1 Code\obj\Debug\P1 Code.csproj.GenerateResource.cache
+C:\Users\Michael\Source\Repos\Andy-Stange\CSC470-P1\P1 Code\P1 Code\obj\Debug\P1 Code.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Source\Repos\Andy-Stange\CSC470-P1\P1 Code\P1 Code\obj\Debug\P1 Code.exe
+C:\Users\Michael\Source\Repos\Andy-Stange\CSC470-P1\P1 Code\P1 Code\obj\Debug\P1 Code.pdb
